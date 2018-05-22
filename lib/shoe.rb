@@ -7,4 +7,8 @@ attr_reader :brand
     @brand = brand
   end
 
+  def cobble
+    puts " "
+  end
+
 end
